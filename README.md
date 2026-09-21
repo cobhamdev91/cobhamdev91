@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=CobhamDev&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20App%20%26%20Fullstack%20%7C%20Computer%20Vision%20%7C%20Game%20Dev&descSize=18&descColor=8b949e&descAlignY=55" width="100%"/>
+<img src="https://raw.githubusercontent.com/cobhamdev91/cobhamdev91/main/header.svg" width="100%"/>
 
 <!-- Profile Avatar -->
 <p>
@@ -348,10 +348,12 @@ Tôi nhận **code theo yêu cầu** — từ Web App quản trị, dashboard đ
 
 </div>
 
+---
+
 <div align="center">
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/cobhamdev91/cobhamdev91/main/footer.svg" width="100%"/>
 
 <br/>
 
