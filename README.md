@@ -9,7 +9,7 @@
 
 <!-- Profile Avatar -->
 <p>
-  <img src="./cobham.jpg" width="135" height="135" style="border-radius: 50%; border: 3px solid #6e40c9;" alt="CobhamDev Avatar"/>
+  <img src="https://raw.githubusercontent.com/cobhamdev91/cobhamdev91/main/cobham.jpg" width="135" height="135" style="border-radius: 50%; border: 3px solid #6e40c9;" alt="CobhamDev Avatar"/>
 </p>
 
 <!-- Typing Animation -->
@@ -347,22 +347,6 @@ Tôi nhận **code theo yêu cầu** — từ Web App quản trị, dashboard đ
 </table>
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cobhamdev91/cobhamdev91/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cobhamdev91/cobhamdev91/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/cobhamdev91/cobhamdev91/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
 
 <div align="center">
 
